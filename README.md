@@ -12,8 +12,8 @@ $ bash setup.sh
 $ bash musicgen.sh
 ```
 Currently there is 2 models: 
-* facebook/music-melody(1.5B) 
-* Kee2001/musicGen(300M param)
+* facebook/music-melody (pretrained model from Meta, 1.5B params) 
+* Kee2001/musicGen (finetuned model on our data, 300M params)
 
 ## Music source separation and convert to midi format app
 
